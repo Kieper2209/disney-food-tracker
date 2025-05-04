@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Dole Whip",
+        "location": "Adventureland - Tiki Juice Bar",
+        "park": "Disneyland"
+    },
+    {
+        "id": 2,
+        "name": "Churro",
+        "location": "Fantasyland - Churro Cart",
+        "park": "Disneyland"
+    },
+    {
+        "id": 3,
+        "name": "Ronto Wrap",
+        "location": "Galaxy's Edge - Ronto Roasters",
+        "park": "Disneyland"
+    },
+    {
+        "id": 4,
+        "name": "Jack-Jack Cookie Num Nums",
+        "location": "Pixar Pier - Cookie Stand",
+        "park": "California Adventure"
+    }
+]

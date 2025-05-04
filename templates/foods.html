@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Foods</title>
+</head>
+<body>
+    <h1>Disney Food List 🍔</h1>
+    <ul>
+        {% for food in foods %}
+            <li>
+                <strong>{{ food.name }}</strong><br>
+                {{ food.location }} ({{ food.park }})
+            </li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Home</a>
+</body>
+</html>
